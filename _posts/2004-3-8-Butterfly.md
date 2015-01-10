@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: poidia
 title: Butterfly
 reference: http://spherculism.com/node/156
 ---
